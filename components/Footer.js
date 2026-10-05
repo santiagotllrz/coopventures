@@ -19,6 +19,7 @@ export default function Footer() {
           <Link href="/">Inicio</Link>
           <Link href="/nosotros">Nosotros</Link>
           <Link href="/aceleracion">Aceleración y Capital</Link>
+          <Link href="/producto">Producto</Link>
           <Link href="/membresias">Membresías y Aportes</Link>
         </div>
 

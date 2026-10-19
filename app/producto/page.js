@@ -4,7 +4,7 @@ import Reveal from "@/components/Reveal";
 export const metadata = {
   title: "Producto — Infraestructura operativa | CoopVentures®",
   description:
-    "Membresía mensual para startups pre-semilla: Kit Legal, bolsa de horas de talento fraccional, CoopPerks y comunidad. Desde $99 USD al mes.",
+    "Membresía mensual para startups pre-semilla: Kit Legal, bolsa de horas de talento fraccional, CoopPerks y comunidad. $99 USD al mes.",
 };
 
 const INCLUDES = [
@@ -171,7 +171,7 @@ export default function Producto() {
                 <div style={{ borderTop: "1px solid var(--line-white)", paddingTop: 24 }}>
                   <span className="small muted-w" style={{ textTransform: "uppercase" }}>Suscripción mensual base</span>
                   <div className="stat-num" style={{ fontSize: "clamp(44px,6vw,84px)", color: "#fff", marginTop: 22 }}>
-                    $99–150
+                    $99
                   </div>
                   <span className="small muted-w">USD / mes</span>
                   <p className="body muted-w mt-24">
